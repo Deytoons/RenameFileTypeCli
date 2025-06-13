@@ -1,5 +1,5 @@
 {
-  "name": "rename-files",
+  "name": "renameFileTypeCli",
   "version": "1.0.0",
   "description": "A CLI tool to batch rename file extensions in a directory.",
   "main": "renameFiles.js",
